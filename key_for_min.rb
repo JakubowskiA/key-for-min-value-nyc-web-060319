@@ -11,5 +11,6 @@ key_for_min_value.each do |key, value|
     min_key = key
     min_val = value
   end
+end
   min_key
 end
