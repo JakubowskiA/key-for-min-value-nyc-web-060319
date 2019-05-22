@@ -10,5 +10,6 @@ key_for_min_value.each do |key, value|
   if value<min_val
     min_key = key
     min_val = value
-  ends
+  end
+  min_key
 end
